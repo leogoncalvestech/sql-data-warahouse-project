@@ -31,7 +31,7 @@ A primeira fase garante que os dados brutos sejam extraídos, limpos e modelados
  |
 | **Escopo (Dados Recentes)** | Foco apenas no conjunto de dados mais recente. **Não** há requisito de historização. | Processo de carregamento por **sobrescrita** (*truncate-and-load*). |
 | **Documentação** | Fornecer documentação clara do modelo para stakeholders e equipe de análise. | Dicionário de Dados e Diagrama ER do Data Warehouse. |
-
+![Imagem]([URL da Imagem](https://raw.githubusercontent.com/leogoncalvestech/sql-data-warahouse-project/refs/heads/main/Diagrama%20architecture%201.png))
 ---
 
 ## 📈 FASE 2: ANÁLISE E RELATÓRIOS (Business Intelligence)
